@@ -1,0 +1,25 @@
+body {
+    background: url(https://media.istockphoto.com/photos/woman-hugging-her-beloved-big-white-dog-animal-communication-concept-picture-id1204834238?k=20&m=1204834238&s=612x612&w=0&h=9UBZRrNFfqa9Yquv4tGk9OebboQC1vBnbNDmrwch4Bg=);
+    background-size: cover;
+    background-position: center;
+    font-family: Lato;
+}
+
+#content {
+text-align: center;
+padding-top: 25%;
+text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+             0px 8px 13px rgba(0, 0, 0, 0.1),
+             0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-weight: 700;
+    font-size: 5em;
+}
+html {
+    height: 100%;
+}
+hr {
+    border-top: 1px solid darkcyan
+    boder-bottom: 1px solid rgba(0,0,0,0.2);
+}
